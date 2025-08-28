@@ -25,5 +25,5 @@ npm run test
 Deploy Contracts on Testnet:
 
 ```
-npx hardhat run scripts/deploy.ts --network luksoTestnet
+npx hardhat run scripts/deploy.ts --network hyperevm
 ```
